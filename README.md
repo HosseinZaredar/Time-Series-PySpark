@@ -2,6 +2,7 @@
 Learning more about time series analysis and forecasting, data visualization, and PySpark.
 
 ### Todo
+- [X] Learn the basics of PySpark and MLlib.
 - [ ] Visualization and analysis of the data.
 - [ ] Implementing base models to capture trend and seasonality.
 - [ ] Implementing hybrid models.
