@@ -3,6 +3,7 @@ Learning more about time series analysis and forecasting, data visualization, an
 
 ### Todo
 - [X] Learn the basics of PySpark and MLlib.
+- [X] Finish Kaggle time series course.
 - [ ] Visualization and analysis of the data.
 - [ ] Implementing base models to capture trend and seasonality.
 - [ ] Implementing hybrid models.
